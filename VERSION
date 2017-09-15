@@ -1,0 +1,8 @@
+1.0.2 HOTFIX
+ - Añadida validación de año de nacimiento a Person
+
+1.0.1 HOTFIX
+ - Corregido envío de emails cuando se crean y editan atenciones
+
+1.0
+ - Primera versión de Producción
